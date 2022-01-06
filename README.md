@@ -1,5 +1,5 @@
 <div align="center">
-  <h2> 🍇 Jeon  🍇 </h2>
+  <h2> 🍇 Jeon MinGyu 🍇 </h2>
   <h4> <p> 민규의 삽질로그.</p></h4>
   <p> 📧  coby4313@gmail.com </p>  
 </div>
