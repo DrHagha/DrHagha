@@ -1,7 +1,8 @@
 <div align="center">
   <h2> 🍋 Jeon MinGyu 🍋 </h2>
-  <h4> <p> 민규의 삽질로그.</p></h4>
-  <p> 📧  coby4313@gmail.com </p>  
+  <h4> <p> 학부생 삽질로그.</p></h4>
+  <p> 📧  coby4313@gmail.com </p>
+  <p> <a href = "https://velog.io/@coby">[velog]</a></p>  
 </div>
   
 <!--   <br>
